@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="current_reminders">Current Reminders</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="select_all">Select All</string>
+    <string name="select_none">Select None</string>
+    <string name="current_lists">Current Lists</string>
+    <string name="delete">Delete</string>
+</resources>
